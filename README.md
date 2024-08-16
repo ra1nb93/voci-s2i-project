@@ -4,10 +4,10 @@ Questo è il mio progetto per il corso Typescript, offerto da start2impact. Ques
 
 ## Spiegazione del Codice
 
-# .Interfacce: 
+### .Interfacce: 
 Le interfacce IProfessionistaMedia, IProgrammaFormazione, e IPiattaforma definiscono le proprietà e i metodi che le classi dovranno implementare.
 
-# .Classi:
+### .Classi:
 
 .ProfessionistaMedia:Implementa l'interfaccia IProfessionistaMedia, gestendo le informazioni delle professioniste e la loro partecipazione ai programmi di formazione.
 
