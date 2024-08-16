@@ -9,7 +9,7 @@ Le interfacce IProfessionistaMedia, IProgrammaFormazione, e IPiattaforma definis
 
 ### .Classi:
 
-.ProfessionistaMedia:Implementa l'interfaccia IProfessionistaMedia, gestendo le informazioni delle professioniste e la loro partecipazione ai programmi di formazione.
+.ProfessionistaMedia: Implementa l'interfaccia IProfessionistaMedia, gestendo le informazioni delle professioniste e la loro partecipazione ai programmi di formazione.
 
 .ProgrammaFormazione: Implementa l'interfaccia IProgrammaFormazione, gestendo i dettagli dei programmi di formazione e gli iscritti.
 
