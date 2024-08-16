@@ -1,6 +1,6 @@
 # Voci
 
-Questo è il progetto del corso Typescript, offerto da start2impact. Questo progetto prevede lo sviluppo di un sistema che modella la struttura operativa di un media online che sostiene la parità di genere
+Questo è il mio progetto per il corso Typescript, offerto da start2impact. Questo progetto prevede lo sviluppo di un sistema che modella la struttura operativa di un media online che sostiene la parità di genere
 
 ## Spiegazione del Codice
 
