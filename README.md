@@ -14,8 +14,3 @@ Le interfacce IProfessionistaMedia, IProgrammaFormazione, e IPiattaforma definis
 .ProgrammaFormazione: Implementa l'interfaccia IProgrammaFormazione, gestendo i dettagli dei programmi di formazione e gli iscritti.
 
 .Piattaforma: Implementa l'interfaccia IPiattaforma, rappresentando le piattaforme che promuovono i contenuti delle professioniste.
-
-Istanziazione: Vengono creati oggetti per rappresentare le professioniste, i programmi di formazione e le piattaforme di pubblicazione.
-Logica di Collegamento: La logica di collegamento permette di iscrivere le professioniste ai programmi di formazione e pubblicare i loro contenuti sulle piattaforme.
-Esecuzione e Output Atteso
-Quando esegui questo codice, dovresti vedere output che indica che le professioniste sono state iscritte ai programmi di formazione e che i loro contenuti sono stati pubblicati sulle piattaforme corrispondenti.
