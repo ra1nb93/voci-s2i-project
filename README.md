@@ -1,16 +1,16 @@
 # Voci
 
-Questo è il mio progetto per il corso Typescript, offerto da start2impact. Questo progetto prevede lo sviluppo di un sistema che modella la struttura operativa di un media online che sostiene la parità di genere
+This project is part of the TypeScript course offered by start2impact. It involves developing a system that models the operational structure of an online media platform that promotes gender equality.
 
-## Spiegazione del Codice
+## Code Explanation
 
-### .Interfacce: 
-Le interfacce IProfessionistaMedia, IProgrammaFormazione, e IPiattaforma definiscono le proprietà e i metodi che le classi dovranno implementare.
+### Interfaces:
+The interfaces `IMediaProfessional`, `ITrainingProgram`, and `IPlatform` define the properties and methods that the implementing classes must fulfill.
 
-### .Classi:
+### Classes:
 
-.ProfessionistaMedia: Implementa l'interfaccia IProfessionistaMedia, gestendo le informazioni delle professioniste e la loro partecipazione ai programmi di formazione.
+- **MediaProfessional**: Implements the `IMediaProfessional` interface, managing information about media professionals and their participation in training programs.
 
-.ProgrammaFormazione: Implementa l'interfaccia IProgrammaFormazione, gestendo i dettagli dei programmi di formazione e gli iscritti.
+- **TrainingProgram**: Implements the `ITrainingProgram` interface, managing the details of training programs and the enrolled participants.
 
-.Piattaforma: Implementa l'interfaccia IPiattaforma, rappresentando le piattaforme che promuovono i contenuti delle professioniste.
+- **Platform**: Implements the `IPlatform` interface, representing platforms that promote content created by media professionals.

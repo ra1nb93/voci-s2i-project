@@ -1,0 +1,16 @@
+{
+  "name": "voci-s2i-project",
+  "version": "1.0.0",
+  "description": "Questo è il progetto del corso Typescript, offerto da start2impact. Questo progetto prevede lo sviluppo di un sistema che modella la struttura operativa di un media online che sostiene la parità di genere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "verify": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
